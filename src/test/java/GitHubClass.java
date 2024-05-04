@@ -5,5 +5,9 @@ public class GitHubClass {
 
         System.out.println("3 third");
 
+        if(true){
+            System.out.println("Hello word!!!");
+        }
+
     }
 }
